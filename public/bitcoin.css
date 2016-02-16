@@ -1,0 +1,32 @@
+body{
+  font-family: helvetica, arial;
+}
+
+.tabs span{
+  color: white;
+  background-color: #1874CD;
+  padding: 1em 3em;
+  display: inline-block;
+}
+
+.prices {
+  border: 2px solid black;
+}
+
+img {
+  height: 50px;
+}
+
+img, h1, a{
+  display: inline-block;
+}
+
+p{
+  font-size: 4.5em;
+  font-weight: bold;
+  margin: 0;
+}
+
+li{
+  margin-bottom: 40px;
+}
