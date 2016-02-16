@@ -1,0 +1,79 @@
+* {
+margin: 0 auto;
+padding: 0;
+}
+
+body{
+  color:white;
+}
+
+
+@font-face {
+  font-family: 'Awesome-Font';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Awesome-Font'), url(http://2e64oz2sjk733hqp882l9xbo.wpengine.netdna-cdn.com/wp-content/themes/voltage4/webfonts/woff/style_199442.woff) format('woff');
+}
+
+h5{
+  margin: 0
+  color: white
+  text-transform: uppercase
+  font-size: 50px
+  text-shadow: 2px 3px #f73133
+}
+
+h1{
+  text-align: center;
+  font-size: 575%
+  color: #ffffff
+  text-transform: uppercase;
+  letter-spacing: 1%
+  margin: 45% 0
+}
+/*#66ffcc*/
+/*#E5E5E5*/
+h2{
+  text-align: center;
+  font-size: 275%
+  color: #ffffff
+  text-transform: uppercase;
+  letter-spacing: 1%
+}
+
+/*---Start Parallax woohooooo! ----*/
+.parallax {
+}
+
+.parallax-inner{
+  background: url("media/1.jpg") repeat fixed 100%;
+  padding-top: 20%;
+  padding-bottom: 20%
+}
+
+
+.parallax-black{
+  background: url("media/2.jpg") repeat fixed 100%;
+  padding-top: 20%;
+  padding-bottom: 20%
+}
+
+
+.parallax-team{
+  background: url("media/3.jpg") repeat fixed 100%;
+  padding-top: 20%;
+  padding-bottom: 20%
+}
+
+.parallax-outer{
+  background: url("media/4.jpg") repeat fixed 100%;
+  padding-top: 20%;
+  padding-bottom: 20%
+}
+
+
+.parallax-meow{
+  background: url("media/5.jpg") repeat fixed 100%;
+  padding-top: 20%;
+  padding-bottom: 20%
+}/*---End Parallax woohooooo! ----*/
